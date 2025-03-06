@@ -1,0 +1,12 @@
+app:
+  port: 3000
+
+database:
+  host: localhost
+  user: postgres
+  password: 1
+  name: superindo-test
+  port: 5432
+
+jwt:
+  secret: your_secret_key
